@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @catnamedmegatron
-- 👀 I’m interested in doing brainstorming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any project possible
-- 📫 How to reach me ... reddit : https://www.reddit.com/user/Technical-Sale-2193/
-                         twitter : https://x.com/ShlokMathurkar
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I tend to grasp new things quicker that others :)
+<!-- GitHub Profile README | Shlok Mathurkar -->
+# Hi, I'm Shlok Mathurkar
 
-<!---
-catnamedmegatron/catnamedmegatron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 CSE Sophomore @ Manipal University Jaipur  
+🔹 Passionate about building at the intersection of AI and creativity  
+🔹 Currently working on **PixelPulse** — an AI-powered mental health visualization tool  
+🔹 Actively exploring hackathons, open-source, and tech-for-good ideas  
+🔹 I share my daily coding journey and projects on X — feel free to follow along
+
+## Tech Stack
+🔹 Python, C++  
+🔹 JavaScript, HTML, CSS  
+🔹 p5.js, OpenAI API  
+
+## Interests
+🔹 AI + Creativity  
+🔹 Generative visuals and pixel art  
+🔹 Problem solving, competitive programming  
+🔹 Tools that make people think or smile
+
+## Contact
+🔹 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+🔹 X: [x.com/ShlokMathurkar](https://x.com/ShlokMathurkar)
+🔹 Email: [shlokmathurkar@gmail.com](mailto:shlokmathurkar@gmail.com)
