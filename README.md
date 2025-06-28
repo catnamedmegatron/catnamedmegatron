@@ -19,6 +19,6 @@
 🔹 Tools that make people think or smile
 
 ## Contact
-🔹 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+🔹 LinkedIn: [linkedin.com/in/shlokmathurkar](https://linkedin.com/in/shlokmathurkar)
 🔹 X: [x.com/ShlokMathurkar](https://x.com/ShlokMathurkar)
 🔹 Email: [shlokmathurkar@gmail.com](mailto:shlokmathurkar@gmail.com)
