@@ -8,9 +8,10 @@
 🔹 I share my daily coding journey and projects on X — feel free to follow along
 
 ## Tech Stack
-🔹 Python, C++  
-🔹 JavaScript, HTML, CSS  
-🔹 p5.js, OpenAI API  
+🔹 **Frontend Development:** React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, shadcn/ui, Bootstrap  
+🔹 **Creative & Visual Coding:** Framer Motion, p5.js, Vanta.js, Three.js  
+🔹 **Backend & Databases:** Node.js, Python, REST API, Supabase  
+🔹 **Additional Skills:** Responsive Design, Animation Techniques, API Integration  
 
 ## Interests
 🔹 AI + Creativity  
