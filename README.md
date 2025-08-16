@@ -3,7 +3,7 @@
 
 🔹 CSE Sophomore @ Manipal University Jaipur  
 🔹 Passionate about building at the intersection of AI and creativity  
-🔹 Currently working on **PixelPulse** — an AI-powered mental health visualization tool  
+🔹 Currently working on **Nova** — an AI-powered trust layer for AI itself  
 🔹 Actively exploring hackathons, open-source, and tech-for-good ideas  
 🔹 I share my daily coding journey and projects on X — feel free to follow along
 
