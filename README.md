@@ -1,5 +1,5 @@
 <!-- GitHub Profile README | Shlok Mathurkar -->
-# Hi, I'm Shlok Mathurkar
+# Hi, I'm Shlok Nitinrao Mathurkar
 
 🔹 CSE Sophomore @ Manipal University Jaipur  
 🔹 Passionate about building at the intersection of AI and creativity  
